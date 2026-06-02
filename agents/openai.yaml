@@ -1,0 +1,7 @@
+interface:
+  display_name: "咪蒙风格写作"
+  short_description: "按咪蒙方法论创作公众号文章、小红书笔记和爆款标题"
+  default_prompt: "Use $mimeng-style-writing to turn my topic into a polished 公众号文章或小红书笔记。"
+
+policy:
+  allow_implicit_invocation: true
